@@ -1,3 +1,12 @@
 #co2 Emissions Analysis Overview
-#The purpose of this project is to anayze the historical CO2 emissions of the 10 countries which emitted the most in 2020. This will be acheived through statistical analysis and charts.
-#Data for this project was sourced from Our World in Data, which keeps an archive of world data, including co2 emissions per country per year. Data was downloaded from https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv on March 29, 2023.
+##The purpose of this project is to anayze the historical CO2 emissions of the 10 countries which emitted the most in 2020. This will be acheived through statistical analysis and charts of data from these countries.
+##Data for this project was sourced from Our World in Data, which keeps an archive of world data, including co2 emissions per country per year. Data was downloaded from https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv on March 29, 2023.
+#Requirements
+##This project utilized Google Colab, a software which allows text and code to be combined conveniently in order to present information clearly.
+#Data Processing
+##The csv file was not edited.
+##Within the colab, data from the file was parsed to determine the top ten emittors in 2020, then further analyzed to determine the mean emsissions from those 10 countries per year.
+#Author
+##Paige Stime
+#License
+##None?
